@@ -17,8 +17,7 @@
 <p align="center">Desktop&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mobile</p>
 
 
-<div display="flex">
-  
+<div display="flex">  
 <img src="https://github.com/Phelipefb/We-Care/blob/main/assets/Desktop.png?raw=true"  width="600px" height="300px"  title="Desktop"/>
   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
 <img src="https://github.com/Phelipefb/We-Care/blob/main/assets/Mobile.png?raw=true" width="250px" height="300" title="Mobile"/>
