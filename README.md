@@ -1,7 +1,7 @@
 <h1>Easy Shopping</h1>
 <br>
 <br>
-<h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com/devclub">DevClub</a></h2>
+<h2>Esse é meu primeiro projeto que aprendi no <a href="https://rodolfomori.com/devclub">DevClub</a></h2>
 <br>
 <p>Foram utilizados os conceitos aprendidos em aula de HTML5 e CSS e conforme proposto no desafio tambem foi aplicado um pouco de responsividade ao projeto </p>
 <h2>Tecnologias Utilizadas:</h2>
@@ -14,12 +14,12 @@
 <br>
 <br>
 
-<p align="center">Desktop&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mobile</p>
+<p align="center">Desktop&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mobile</p>
 
 
 <div display="flex">
   
 <img src="https://github.com/Phelipefb/We-Care/blob/main/assets/Desktop.png?raw=true"  width="600px" height="300px"  title="Desktop"/>
   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
-<img src="" width="250px" height="300" title="Mobile"/>
+<img src="https://github.com/Phelipefb/We-Care/blob/main/assets/Mobile.png?raw=true" width="250px" height="300" title="Mobile"/>
 </div>
