@@ -1,4 +1,4 @@
-<h1>Easy Shopping</h1>
+<h1>We Care &nbsp :dog:</h1>   
 <br>
 <br>
 <h2>Esse é meu primeiro projeto que aprendi no <a href="https://rodolfomori.com/devclub">DevClub</a></h2>
